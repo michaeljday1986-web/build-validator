@@ -1,4 +1,4 @@
-# build-validator
+# Build Validator
 # Endpoint Handover Validator
 
 A lightweight PowerShell WPF tool for validating newly built Windows endpoints before technician handover.
